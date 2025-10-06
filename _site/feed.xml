@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-06T13:52:18-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Disminal</title><link href="http://localhost:4000/games/2025/10/05/Disminal.html" rel="alternate" type="text/html" title="Disminal" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Disminal</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Disminal.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-06T14:24:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Disminal</title><link href="http://localhost:4000/games/2025/10/05/Disminal.html" rel="alternate" type="text/html" title="Disminal" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Disminal</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Disminal.html">&lt;!-- Links --&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;
+    &lt;a href=&quot;https://store.steampowered.com/app/2178670/Disminal/&quot; target=&quot;_blank&quot; style=&quot;margin-right: 10px;&quot;&gt;Steam&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
 
   &lt;!-- Title and Year --&gt;
   &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
@@ -21,7 +26,14 @@
   &lt;img src=&quot;/assets/media/dis_pool_6.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
   &lt;img src=&quot;/assets/media/disminal_poolrooms_caligula_2.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
 
-&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/graphic-design/2025/10/05/ET.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2025/10/05/ET</id><content type="html" xml:base="http://localhost:4000/graphic-design/2025/10/05/ET.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+  &lt;img src=&quot;/assets/media/dis_yellow_zone_3.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html">Steam</summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/graphic-design/2025/10/05/ET.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2025/10/05/ET</id><content type="html" xml:base="http://localhost:4000/graphic-design/2025/10/05/ET.html">&lt;!-- Links --&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;
+    &lt;a href=&quot;https://emergingtechnology.bandcamp.com&quot; target=&quot;_blank&quot; style=&quot;margin-right: 10px;&quot;&gt;bandcamp&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
 
   &lt;!-- Title and Year --&gt;
   &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
@@ -45,7 +57,7 @@
 &lt;video src=&quot;/assets/media/et.mp4&quot; controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; style=&quot;width: 100%; max-width: 800px; height: auto; margin-top: 15px;&quot;&gt;
     Your browser does not support the video tag.
 &lt;/video&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="graphic-design" /><summary type="html"></summary></entry><entry><title type="html">Executive Incentive 97</title><link href="http://localhost:4000/games/2025/10/05/EX97.html" rel="alternate" type="text/html" title="Executive Incentive 97" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/EX97</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/EX97.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="graphic-design" /><summary type="html">bandcamp</summary></entry><entry><title type="html">Executive Incentive 97</title><link href="http://localhost:4000/games/2025/10/05/EX97.html" rel="alternate" type="text/html" title="Executive Incentive 97" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/EX97</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/EX97.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;&quot;&gt;
 
   &lt;!-- Title and Year --&gt;
   &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
@@ -54,9 +66,9 @@
   &lt;/div&gt;
 
   &lt;!-- Description --&gt;
-  &lt;!--&lt;p class=&quot;post-paragraph&quot;&gt;
-    &lt;em&gt;Mazewar&lt;/em&gt;
-  &lt;/p&gt;--&gt;
+  &lt;p class=&quot;post-paragraph&quot;&gt;
+    &lt;em&gt;EX97&lt;/em&gt; is my new project inspired by corporate life and old cgi 90s graphics, implementing a player movement similar to Myst&apos;s and those old point and click games. The game is meant to be a &apos;surreal&apos; corporate simulator where the player will upgrade their skills and gear such as keyboard cubicles and computers to improve their performance and productivity while also balancing their internal state such as stress and energy levels with time management strategies and consumption of stimulants. EX97 visuals are inspired by retro game aesthetics, vaporwave, consumerism, utopian themes, and Frutiger Aero elements.
+  &lt;/p&gt;
 
   &lt;img src=&quot;/assets/media/EX97_1.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
 
@@ -77,7 +89,12 @@
   &gt;
     Your browser does not support the video tag.
   &lt;/video&gt;--&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/games/2025/10/05/Mazewar.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Mazewar</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Mazewar.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/games/2025/10/05/Mazewar.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Mazewar</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Mazewar.html">&lt;!-- Links --&gt;
+&lt;div style=&quot;margin-top: 10px;&quot;&gt;
+    &lt;a href=&quot;https://store.steampowered.com/app/3298130/Mazewar/&quot; target=&quot;_blank&quot; style=&quot;margin-right: 10px;&quot;&gt;Steam&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
 
   &lt;!-- Title and Year --&gt;
   &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
@@ -103,15 +120,27 @@
   &lt;video src=&quot;/assets/media/mazewar_new_chair.mp4&quot; controls=&quot;&quot; style=&quot;max-width: 90%; height: auto; margin-top: 15px;&quot;&gt;
     Your browser does not support the video tag.
   &lt;/video&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/concepts/2023/07/10/Ameles.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/concepts/2023/07/10/Ameles</id><content type="html" xml:base="http://localhost:4000/concepts/2023/07/10/Ameles.html">&lt;div id=&quot;img-1&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html">Steam</summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/concepts/2023/07/10/Ameles.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/concepts/2023/07/10/Ameles</id><content type="html" xml:base="http://localhost:4000/concepts/2023/07/10/Ameles.html">&lt;div id=&quot;img-1&quot;&gt;
     &lt;img src=&quot;/assets/media/amelesbyboat.png&quot; class=&quot;images&quot; style=&quot;width:auto; height:auto; margin-top:15px; &quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;img-2&quot;&gt;
     &lt;img src=&quot;/assets/media/ameles1.png&quot; class=&quot;images&quot; style=&quot;width:auto; height:auto; margin-top:15px; &quot; /&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="concepts" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/2023/07/10/Gonnet.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/2023/07/10/Gonnet</id><content type="html" xml:base="http://localhost:4000/2023/07/10/Gonnet.html">&lt;div id=&quot;img-1&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="concepts" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/concepts/2023/07/10/Gonnet.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/concepts/2023/07/10/Gonnet</id><content type="html" xml:base="http://localhost:4000/concepts/2023/07/10/Gonnet.html">&lt;div id=&quot;img-1&quot;&gt;
     &lt;img src=&quot;/assets/media/gt.png&quot; class=&quot;images&quot; style=&quot;max-width:100%; height:auto;&quot; /&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Infinity Frequencies</title><link href="http://localhost:4000/graphic-design/2023/07/10/Infinity.html" rel="alternate" type="text/html" title="Infinity Frequencies" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2023/07/10/Infinity</id><content type="html" xml:base="http://localhost:4000/graphic-design/2023/07/10/Infinity.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-2&quot;&gt;
+    &lt;img src=&quot;/assets/media/daw_1.png&quot; class=&quot;images&quot; style=&quot;max-width:100%; height:auto;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-3&quot;&gt;
+    &lt;img src=&quot;/assets/media/daw_2.png&quot; class=&quot;images&quot; style=&quot;max-width:100%; height:auto;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-4&quot;&gt;
+    &lt;img src=&quot;/assets/media/daw_3.png&quot; class=&quot;images&quot; style=&quot;max-width:100%; height:auto;&quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="concepts" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Infinity Frequencies</title><link href="http://localhost:4000/graphic-design/2023/07/10/Infinity.html" rel="alternate" type="text/html" title="Infinity Frequencies" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2023/07/10/Infinity</id><content type="html" xml:base="http://localhost:4000/graphic-design/2023/07/10/Infinity.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
 
   &lt;!-- Title and Year --&gt;
   &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;

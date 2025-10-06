@@ -1,85 +1,41 @@
 --- layout: default ---
+
 <h1>{{ page.title | capitalize }}</h1>
 
-<div class="gallery" id="gallery">
-    {% comment %} Output all items as data attributes so JS can shuffle them If
-    page.category exists, filter posts; else show all posts {% endcomment %} {%
-    if page.category %} {% assign posts_to_show = site.posts |
-    where_exp:"post","post.categories contains page.category" %} {% else %} {%
-    assign posts_to_show = site.posts %} {% endif %} {% for post in
-    posts_to_show %} {% if post.images %} {% for img in post.images %}
-    <div
-        class="gallery-item"
-        data-src="{{ img }}"
-        data-url="{{ post.url }}#img-{{ forloop.index }}"
-    ></div>
-    {% endfor %} {% endif %} {% endfor %}
+<div class="gallery">
+    {% assign all_items = "" | split: "" %} {% comment %} `page.title` will be
+    the category name (from jekyll-archives) {% endcomment %} {% assign
+    category_name = page.title | downcase %} {% assign posts_to_show =
+    site.posts | where_exp: "post", "post.categories contains category_name" %}
+    {% for post in posts_to_show %} {% if post.images %} {% for img in
+    post.images %} {% assign item_info = img | append: "|" | append: post.url |
+    append: "#img-" | append: forloop.index %} {% assign all_items = all_items |
+    push: item_info %} {% endfor %} {% endif %} {% endfor %} {% assign
+    shuffled_items = all_items | sample: all_items.size %} {% for item in
+    shuffled_items %} {% assign parts = item | split: "|" %} {% assign src =
+    parts[0] %} {% assign anchor_url = parts[1] %}
+
+    <a href="{{ anchor_url }}">
+        {% if src contains ".mp4" or src contains ".webm" %}
+        <video
+            src="{{ src }}"
+            controls
+            loop
+            autoplay
+            muted
+            playsinline
+            style="
+                width: 100%;
+                height: auto;
+                display: block;
+                margin-bottom: 6px;
+            "
+        >
+            Your browser does not support the video tag.
+        </video>
+        {% else %}
+        <img src="{{ src }}" alt="" />
+        {% endif %}
+    </a>
+    {% endfor %}
 </div>
-
-<script>
-    const gallery = document.getElementById("gallery");
-    const items = Array.from(gallery.querySelectorAll(".gallery-item"));
-
-    // Fisher-Yates shuffle
-    function shuffle(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
-        return array;
-    }
-
-    const shuffled = shuffle(items);
-    gallery.innerHTML = "";
-
-    shuffled.forEach((item) => {
-        const src = item.dataset.src;
-        const url = item.dataset.url;
-        let element;
-
-        if (src.endsWith(".mp4") || src.endsWith(".webm")) {
-            element = document.createElement("video");
-            element.src = src;
-            element.controls = true;
-            element.loop = true;
-            element.autoplay = true;
-            element.muted = true;
-            element.playsInline = true;
-            element.style =
-                "width:100%;height:auto;display:block;margin-bottom:6px;";
-        } else {
-            element = document.createElement("img");
-            element.src = src;
-            element.style =
-                "width:100%;height:auto;display:block;margin-bottom:6px;";
-        }
-
-        const link = document.createElement("a");
-        link.href = url;
-        link.appendChild(element);
-        gallery.appendChild(link);
-    });
-</script>
-
-<style>
-    .gallery {
-        columns: 2;
-        column-gap: 6px;
-        width: 100%;
-        max-width: 1200px;
-        margin: 0 auto;
-    }
-
-    .gallery a {
-        display: inline-block;
-        width: 100%;
-        margin: 0 0 6px;
-        break-inside: avoid;
-    }
-
-    @media (max-width: 700px) {
-        .gallery {
-            columns: 1;
-        }
-    }
-</style>
