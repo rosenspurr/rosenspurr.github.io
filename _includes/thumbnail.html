@@ -1,0 +1,8 @@
+<div class="thumbnail">
+    <img
+        src="{{ post.thumbnail | default: '/assets/media/random' | append: forloop.index | append: '.webp' }}"
+        alt="{{ post.title }}"
+        class="img-fluid"
+        <!--class="img-fluid rounded shadow-sm"-->
+    />
+</div>

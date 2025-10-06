@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<!-- default.html will handle left sidebar -->
+<main class="col-md-8 p-3">
+    {% if page.title %}
+    <h4 class="titulo">{{ page.title }}</h4>
+    {% endif %} {% if page.date %}
+    <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %} {{ content }}
+</main>

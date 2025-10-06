@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Prelude</title>
+
+    <!-- Fonts & Styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Special+Elite&display=swap"
+        rel="stylesheet"
+    />
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+</head>
+
+    <head>
+        <style>
+            /* Sidebar fixed only on medium screens and up */
+            @media (min-width: 768px) {
+                aside.left-side {
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    height: 100vh;
+                    overflow-y: auto;
+                }
+
+                main.right-side {
+                    margin-left: 33.3333%; /* same as col-md-4 width */
+                }
+            }
+
+            /* On small screens, sidebar behaves normally (stacked) */
+            @media (max-width: 767.98px) {
+                aside.left-side {
+                    position: static;
+                    height: auto;
+                }
+
+                main.right-side {
+                    margin-left: 0;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <!-- LEFT SIDE -->
+                <aside class="col-md-4 p-3 left-side">
+                    <div class="profile p-4 p-md-5">
+    <a href="/es/" style="text-decoration: none; color: inherit">
+        <img
+            src="/assets/media/gt.png"
+            alt="Brian Gonnet"
+            class="profile-img mb-3"
+        />
+        <h3 class="profile-name">Brian Gonnet</h3>
+    </a>
+    <p class="profile-role">Game Developer / Multimedia Designer</p>
+
+    <ul class="profile-links list-unstyled mb-3">
+        <li><a href="/es/categories/games">Video Games</a></li>
+        <li>
+            <a href="/es/categories/graphic-design"
+                >Graphic Design & Video Editing</a
+            >
+        </li>
+        <li><a href="/es/categories/concepts">Concepts</a></li>
+    </ul>
+
+    <ul class="profile-contact list-unstyled mb-0">
+        <li><a href="https://x.com/briangonnet3">X</a></li>
+        <li><a href="mailto:contact@gonnetbrian@gmail.com">Email</a></li>
+    </ul>
+</div>
+
+                </aside>
+
+                <!-- RIGHT SIDE -->
+                <main class="col-12 col-md-8 p-3 right-side">
+                     
+<div id="img-1">
+    <img src="/assets/media/gt.png" class="images" style="max-width:100%; height:auto;" />
+</div>
+
+ 
+                </main>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

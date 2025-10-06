@@ -1,0 +1,18 @@
+{% assign latest = site.posts.first %}
+<div class="row border-start lastpost">
+    <span class="text-muted fw-light p-3 fs-6"
+        >{{ latest.date | date: "%-d %B %Y" }}</span
+    >
+    <h4 class="titulo">{{ latest.title }}</h4>
+    {{ latest.content }}
+</div>
+
+{% for post in site.posts offset:1 %}
+<div class="row border-start normalpost">
+    <span class="text-muted fw-light p-3 fs-6"
+        >{{ post.date | date: "%-d %B %Y" }}</span
+    >
+    <h4 class="titulo">{{ post.title }}</h4>
+    {{ post.content }}
+</div>
+{% endfor %}

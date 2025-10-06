@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-06T13:44:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Disminal</title><link href="http://localhost:4000/games/2025/10/05/Disminal.html" rel="alternate" type="text/html" title="Disminal" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Disminal</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Disminal.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+
+  &lt;!-- Title and Year --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
+    &lt;h5 style=&quot;margin: 0; &quot;&gt;Disminal&lt;/h5&gt;
+    &lt;span style=&quot;font-size: 0.9rem; color: #666;&quot;&gt;2024&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Description --&gt;
+  &lt;p class=&quot;post-paragraph&quot;&gt;
+    &lt;em&gt;Disminal&lt;/em&gt; was my first attempt at building and releasing a game on Steam.
+    It began as an experiment with lightmaps and first-person controllers shortly after I learned OOP.
+    Inspired by &lt;em&gt;The Complex&lt;/em&gt; and Matt Studio’s work, I wanted to explore atmosphere and psychological dread
+    through a first-person walking simulator while focusing on achieving solid visuals in Unity,
+    which proved to be more than capable and quite challenging, all while maintaining higher performance than most Unreal-made titles.
+  &lt;/p&gt;
+  &lt;!-- Image --&gt;
+  &lt;img src=&quot;/assets/media/dis_pool_2.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/dis_yellow_zone_1.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/dis_between_two_worlds_1.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/dis_pool_6.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/disminal_poolrooms_caligula_2.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/graphic-design/2025/10/05/ET.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2025/10/05/ET</id><content type="html" xml:base="http://localhost:4000/graphic-design/2025/10/05/ET.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+
+  &lt;!-- Title and Year --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
+    &lt;h5 style=&quot;margin: 0;&quot;&gt;Emerging Technology&lt;/h5&gt;
+    &lt;!--&lt;span style=&quot;font-size: 0.9rem; color: #666;&quot;&gt;&lt;/span&gt;--&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Description --&gt;
+  &lt;p class=&quot;post-paragraph&quot;&gt;
+      &lt;em&gt;ET&lt;/em&gt; (Emerging Technology) is a California-based music label focused on experimental electronic music. For the label, I created 3D models for the logo, produced videos, and contributed to various graphic design projects.
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/media/et_4.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/et_2.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/et_3.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px; &quot; /&gt;
+  &lt;img src=&quot;/assets/media/ET_FUGA.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px; &quot; /&gt;
+
+
+  &lt;!-- Video --&gt;
+&lt;video src=&quot;/assets/media/et.mp4&quot; controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; muted=&quot;&quot; playsinline=&quot;&quot; style=&quot;width: 100%; max-width: 800px; height: auto; margin-top: 15px;&quot;&gt;
+    Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="graphic-design" /><summary type="html"></summary></entry><entry><title type="html">Executive Incentive 97</title><link href="http://localhost:4000/games/2025/10/05/EX97.html" rel="alternate" type="text/html" title="Executive Incentive 97" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/EX97</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/EX97.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;&quot;&gt;
+
+  &lt;!-- Title and Year --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
+      &lt;p style=&quot;margin: 0;&quot;&gt;Executive Incentive 97&lt;/p&gt;
+    &lt;span style=&quot;font-size: 0.9rem; color: #666;&quot;&gt;2025 WIP&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Description --&gt;
+  &lt;!--&lt;p class=&quot;post-paragraph&quot;&gt;
+    &lt;em&gt;Mazewar&lt;/em&gt;
+  &lt;/p&gt;--&gt;
+
+  &lt;img src=&quot;/assets/media/EX97_1.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/EX97_2.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/EX97_fountain.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/EX97_Keyboard.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/EX97_stats.png&quot; alt=&quot;Screenshot from Executive Incentive 97&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+
+  &lt;!-- Video --&gt;
+  &lt;!--&lt;video
+    src=&quot;/assets/media/mazewar_new_chair.mp4&quot;
+    controls
+    style=&quot;max-width: 90%; height: auto; margin-top: 15px;&quot;
+  &gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;--&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry><title type="html">Mazewar</title><link href="http://localhost:4000/games/2025/10/05/Mazewar.html" rel="alternate" type="text/html" title="Mazewar" /><published>2025-10-05T00:00:00-03:00</published><updated>2025-10-05T00:00:00-03:00</updated><id>http://localhost:4000/games/2025/10/05/Mazewar</id><content type="html" xml:base="http://localhost:4000/games/2025/10/05/Mazewar.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+
+  &lt;!-- Title and Year --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
+    &lt;h5 style=&quot;margin: 0;&quot;&gt;Mazewar&lt;/h5&gt;
+    &lt;span style=&quot;font-size: 0.9rem; color: #666;&quot;&gt;2025 WIP&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Description --&gt;
+  &lt;p class=&quot;post-paragraph&quot;&gt;
+    &lt;em&gt;Mazewar&lt;/em&gt; is my recreation on the very first 3D FPS game made originally known as Maze. It&apos;s not only the first game in First Person Perspective but also the first networked multiplayer game.
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/media/mazewar_1.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/mazewar_tekt.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;img src=&quot;/assets/media/mazewar_3.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+
+  &lt;img src=&quot;/assets/media/mazewar_3.png&quot; alt=&quot;Screenshot from Disminal&quot; class=&quot;images&quot; style=&quot;max-width:90%; height:auto; margin-top:15px; &quot; /&gt;
+
+  &lt;!-- Video --&gt;
+  &lt;video src=&quot;/assets/media/mazewar_new_chair.mp4&quot; controls=&quot;&quot; style=&quot;max-width: 90%; height: auto; margin-top: 15px;&quot;&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/concepts/2023/07/10/Ameles.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/concepts/2023/07/10/Ameles</id><content type="html" xml:base="http://localhost:4000/concepts/2023/07/10/Ameles.html">&lt;div id=&quot;img-1&quot;&gt;
+    &lt;img src=&quot;/assets/media/amelesbyboat.png&quot; class=&quot;images&quot; style=&quot;width:auto; height:auto; margin-top:15px; &quot; /&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;img-2&quot;&gt;
+    &lt;img src=&quot;/assets/media/ameles1.png&quot; class=&quot;images&quot; style=&quot;width:auto; height:auto; margin-top:15px; &quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="concepts" /><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Prelude</title><link href="http://localhost:4000/2023/07/10/Gonnet.html" rel="alternate" type="text/html" title="Prelude" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/2023/07/10/Gonnet</id><content type="html" xml:base="http://localhost:4000/2023/07/10/Gonnet.html">&lt;div id=&quot;img-1&quot;&gt;
+    &lt;img src=&quot;/assets/media/gt.png&quot; class=&quot;images&quot; style=&quot;max-width:100%; height:auto;&quot; /&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="en"><title type="html">Infinity Frequencies</title><link href="http://localhost:4000/graphic-design/2023/07/10/Infinity.html" rel="alternate" type="text/html" title="Infinity Frequencies" /><published>2023-07-10T00:00:00-03:00</published><updated>2023-07-10T00:00:00-03:00</updated><id>http://localhost:4000/graphic-design/2023/07/10/Infinity</id><content type="html" xml:base="http://localhost:4000/graphic-design/2023/07/10/Infinity.html">&lt;div id=&quot;img-1&quot; class=&quot;mb-4&quot; style=&quot;max-width: 80%;&quot;&gt;
+
+  &lt;!-- Title and Year --&gt;
+  &lt;div style=&quot;display: flex; justify-content: space-between; align-items: baseline;&quot;&gt;
+    &lt;h5 style=&quot;margin: 0;&quot;&gt;Infinity Frequencies&lt;/h5&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Description --&gt;
+  &lt;p class=&quot;post-paragraph&quot;&gt;
+      &lt;em&gt;Infinity Frequencies&lt;/em&gt; is an experimental music project. For it, I created visual artwork for album covers, 3D models, and video content to complement the music.
+  &lt;/p&gt;
+
+  &lt;!-- Images --&gt;
+  
+    
+      &lt;img src=&quot;/assets/media/IF_SLEEVE.png&quot; alt=&quot;Artwork or project image&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px;&quot; /&gt;
+    
+  
+    
+      &lt;img src=&quot;/assets/media/machine2.png&quot; alt=&quot;Artwork or project image&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px;&quot; /&gt;
+    
+  
+    
+      &lt;img src=&quot;/assets/media/machine_tape_1.png&quot; alt=&quot;Artwork or project image&quot; class=&quot;images&quot; style=&quot;max-width:40%; height:auto; margin-top:15px;&quot; /&gt;
+    
+  
+
+  &lt;!-- Video --&gt;
+  
+    
+  
+    
+  
+    
+  
+
+&lt;/div&gt;</content><author><name></name></author><category term="graphic-design" /><summary type="html"></summary></entry></feed>

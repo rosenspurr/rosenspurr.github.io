@@ -1,0 +1,102 @@
+<nav
+    id="navbar"
+    class="navbar navbar-expand-md bg-white border-bottom p-0 fixed-top"
+>
+    <div class="container justify-content-between" style="max-width: 1100px">
+        <div
+            class="d-flex align-items-center justify-content-between flex-nowrap"
+            style="width: 100%"
+        >
+            <a
+                type="button"
+                class="navbar-brand link-opacity-25-hover text-wrap navbar-brand-resizable"
+                data-bs-toggle="modal"
+                data-bs-target="#exampleModal"
+            >
+                {% if site.active_lang == site.default_lang %}
+                <span class="en">Brian Gonnet</span> <br class="hiddenbr" />
+                <i class="bi bi-info-circle text-muted"></i> {% comment %}<span
+                    id="experimentos"
+                    >Brian Gonnet</span
+                >
+                <span class="en">in</span> <br class="hiddenbr" />
+                <span id="primerapersona">First Person</span>
+                <i class="bi bi-info-circle text-muted"></i>{% endcomment %} {%
+                else %} <span id="experimentos">Experimentos</span>
+                <span class="en">en</span> <br class="hiddenbr" />
+                <span id="primerapersona">Primera Persona</span>
+                <i class="bi bi-info-circle text-muted"></i>
+                {% endif %}
+            </a>
+
+            <button
+                class="navbar-toggler m-1 shadow-none"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+
+        <div
+            class="collapse navbar-collapse align-items-center nowrap justify-content-end"
+            id="navbarSupportedContent"
+        >
+            <div class="dropdown mx-2">
+                <button
+                    class="btn border-0 p-0 dropdown-toggle"
+                    style="font-size: 1.2rem"
+                    type="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                >
+                    <span class="text-success">{{site.active_lang}}</span>
+                    <i class="en bi bi-translate"></i>
+                </button>
+                <ul class="dropdown-menu">
+                    {% for lang in site.languages %} {% if lang ==
+                    site.default_lang %}
+                    <li>
+                        <a class="dropdown-item" href=" {{ page.url  }}"
+                            >{{ lang }}</a
+                        >
+                    </li>
+                    {% else %}
+                    <li>
+                        <a
+                            class="dropdown-item"
+                            href="/{{ lang  }}{{ page.url  }}"
+                            >{{ lang }}</a
+                        >
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+            </div>
+
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                    <a
+                        class="nav-link p-1 text-nowrap"
+                        href="mailto:contact@gonnetbrian@gmail.com"
+                    >
+                        <i class="bi bi-envelope"></i> gonnetbrian@gmail.com
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a
+                        class="nav-link p-1 text-nowrap"
+                        id="github"
+                        href="https://github.com/gorecki3"
+                        target="_blank"
+                    >
+                        <i class="bi bi-github"></i> gorecki3
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
